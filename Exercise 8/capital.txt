@@ -1,0 +1,50 @@
+Afghanistan,Kabul
+Albania,Tirana
+Andorra,Andorra la Vella
+Angola,Luanda
+Antigua and Barbuda,St. John’s
+Argentina,Buenos Aires
+Armenia,Yerevan
+Australia,Canberra
+Austria,Vienna
+Azerbaijan,Baku
+Bahamas,Nassau
+Bahrain,Manama
+Bangladesh,Dhaka
+Barbados,Bridgetown
+Belarus,Minsk
+Belgium,Brussels
+Belize,Belmopan
+Bhutan,Thimphu
+Bolivia,La Paz and Sucre
+Bosnia,Sarajevo
+Botswana,Gaborone
+Brazil,Brasília
+Brunei,Bandar Seri Begawan
+Bulgaria,Sofia
+Burkina Faso,Ouagadougou
+Burundi,Bujumbura
+Cambodia,Phnom Penh
+Cameroon,Yaoundé
+Canada,Ottawa
+Cape Verde,Praiaa
+Cayman Islands,George Town
+Central African Republic,Bangui
+Chad,N’Djamena
+Chile,Santiago
+China,Beijing
+Colombia,Bogotá
+Comoros,Moroni
+Costa Rica,San José
+Côte d’Ivoire,Yamoussoukro
+Croatia,Zagreb
+Cuba,Havana
+Cyprus,Nicosia
+Czech Republic,Prague
+Democratic Republic of the Congo,Brazzaville
+Denmark,Copenhagen
+Djibouti,Djibouti
+Dominica,Roseau
+Dominican Republic,Santo Domingo
+East Timor,Dili
+Ecuador,Quito
